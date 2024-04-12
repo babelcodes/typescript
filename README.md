@@ -11,6 +11,6 @@ It is used in [Angular NG](https://github.com/babelcodes/angular-ng)
 ## Guide
 
 - [Documentation](doc/README.md)
-   - [Testing](./testing/README.md)
-   - [Features](./features/README.md)
+   - [Testing](./doc/testing/README.md)
+   - [Features](./doc/features/README.md)
 
